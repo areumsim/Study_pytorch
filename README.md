@@ -10,5 +10,5 @@ main site : [https://www.notion.so/pytorch-38898532cc8b45e38ae99f4c87f9f056](htt
 - [3. MNIST+SOFTMAX, MNIST+NN, dropout, regularization, etc](https://www.notion.so/3-MNIST-SOFTMAX-MNIST-NN-dropout-regularization-etc-c144db4b3c2f45e9829135ed5e1a5557)
 
 
-**File : torch_lenet_.ipynb**
-[4. MNIST+LeNet5](https://www.notion.so/4-MNIST-LeNet5-434ba822c0334bfea4e6b07ca407a9fb)
+**File : torch_2_lenet_.ipynb**
+- [4. MNIST+LeNet5](https://www.notion.so/4-MNIST-LeNet5-434ba822c0334bfea4e6b07ca407a9fb)
