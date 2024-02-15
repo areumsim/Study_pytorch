@@ -1,5 +1,5 @@
 
-# Study_pytorch (`21 ~ )
+# Study_pytorch (`21 )
 
 main site : [https://www.notion.so/pytorch-38898532cc8b45e38ae99f4c87f9f056](https://www.notion.so/pytorch-38898532cc8b45e38ae99f4c87f9f056)
 
